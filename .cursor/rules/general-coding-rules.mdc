@@ -1,0 +1,21 @@
+---
+description: General Coding Rules
+globs: *
+alwaysApply: true
+---
+
+## For Non-Thinking Model
+
+- Make sure to follow the user's instructions and requirements.
+- Do not produce any duplicated logic to what already exists in the codebase.
+
+## For Thinking Model
+
+- Do not over complicate the requested code.
+- Always use KISS principle, unless instructed otherwise
+- Use YAGNI principle, unless instructed otherwise
+- Use DRY principle, unless instructed otherwise
+
+*Do not use any external libraries or frameworks unless it's absolutely necessary and authorized by user.*
+
+*Do not produce any duplicated logic to what already exists in the codebase.*
